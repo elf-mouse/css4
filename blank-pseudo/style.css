@@ -1,0 +1,7 @@
+p:blank {
+  outline: solid 1px red;
+}
+
+p:empty {
+  border: solid 1px green;
+}

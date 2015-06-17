@@ -1,0 +1,22 @@
+body {
+  line-height: 2em;
+}
+
+.c {
+  width: 500px;
+  margin: auto;
+}
+
+.p {
+  text-align: center;
+  font-size: .9em;
+  padding-top: 100px;
+}
+
+input[type=checkbox]:default {
+  outline: solid 1px hotpink;
+}
+
+input:default {
+  outline: solid 1px hotpink;
+}

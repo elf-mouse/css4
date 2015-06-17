@@ -1,0 +1,5 @@
+* [Selectors Level 4 Working Draft](http://www.w3.org/TR/selectors4/)
+* [Selectors Level 4 Editor’s Draft](http://dev.w3.org/csswg/selectors/)
+* [CSS4 Rocks](http://css4.rocks/selectors-level-4/)
+* [CSS4-Selectors](http://css4-selectors.com/selectors/)
+* [Selectors Test](http://css4-selectors.com/browser-selector-test/)

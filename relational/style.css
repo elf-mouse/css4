@@ -1,0 +1,19 @@
+/* Section elements that contain a footer */
+section:has(footer) {
+  background: #ccc;
+}
+
+/* Any element containing a p element with a class of "alert" */
+:has(p.alert) {
+  background-color: red;
+}
+
+/* img element with paragraph immediately following. */
+img:has(+p) {
+  color: red;
+}
+
+/* list item with ul as a direct child */
+li:has(> ul) {
+  color: red;
+}

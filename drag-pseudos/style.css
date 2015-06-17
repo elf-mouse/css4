@@ -1,0 +1,7 @@
+.spot {
+  background: #ccc;
+}
+
+.spot:drop {
+  background: hotpink;
+}

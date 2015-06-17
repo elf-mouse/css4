@@ -1,0 +1,27 @@
+body {
+  line-height: 2em;
+}
+
+.c {
+  width: 500px;
+  margin: auto;
+}
+
+.p {
+  text-align: center;
+  font-size: .9em;
+  padding-top: 100px;
+}
+
+form div {
+  padding: 10px;
+}
+
+input:required ~ .msg:after {
+  content: '*';
+  color: red;
+}
+
+input:optional ~ .msg:after {
+  content: '(optional)';
+}

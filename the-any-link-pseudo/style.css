@@ -1,0 +1,10 @@
+/**
+ * Hyperlink Pseudo-class: `:any-link`
+ *
+ * :link, :visited {
+ *   color: #555;
+ * }
+ */
+:any-link {
+  color: #555;
+}

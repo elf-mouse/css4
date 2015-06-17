@@ -1,0 +1,10 @@
+* 列连接符（`||`）:用于定义table和grid中的列和单元格之间的关系
+* `:nth-column()`和`:nth-last-column()`伪类用于指定table和grid中的特定列
+* `attr()`：属性节点选择器，是第一个[非元素选择器](http://dev.w3.org/csswg/selectors-nonelement/)
+* 后代选择器由`>>`代替（而不仅是一个空格字符）
+* `:user-error`伪类：为用户输入的数据不正确的文本框设置样式
+* `@namespace`：定义命名空间
+* `:dir()`伪类：根据方向来选择元素（如`ltr`）
+* `:scope`伪类：为选择元素提供一个作用域或引用点
+* `:current`，`:past`，和`:future`伪类：定义目标元素在时间进程上的样式，如一个视频字幕。
+* `:placeholder-shown`伪类：定义表单元素中placeholder值不为空的input元素的样式
